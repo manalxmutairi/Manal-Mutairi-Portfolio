@@ -1,0 +1,32 @@
+Build a complete, modern, fun, and fully responsive personal portfolio website I want this website to represent me professionaly personality, education and skills It should look like a professionally designed personal website not a generic portfolio template.
+
+Use the following information:
+Name: manal mutairi
+Education: Bachelor’s Degree in Education
+University: Kuwait University
+Graduation Year: 2026
+GPA: 3.50
+Professional interests: economics, Marketing, AI and arts.
+“I am a recent university graduate who is curious ambitious, adaptable and eager to develop new skills and explore different professional fields”
+
+Create the following sections:
+Hero Section: A beautiful green and brown introduction with my name professional headline short introduction, and a clear call-to-action.
+About Me: A personal yet professional introduction highlighting my educational background, personality, interests, and career aspirations.
+Skills: Display my technical, professional, communication, interpersonal, and problem-solving skills using attractive visual elements.
+Experience & Education: Include my university education and practical training experience.
+Contact: Add a professional contact section with email, LinkedIn, and other social links using editable placeholders. (manalxmutairi@gmail.com) 
+Create a clean navigation bar that allows visitors to smoothly navigate between all sections.
+The navigation must work properly on desktop and mobile.
+colors are green and brown
+
+I want a sophisticated, fun, creative, and distinctive visual identity no generic corporate templates and overly minimalist designs
+A carefully selected and consistent color palette that goes with brown and green
+fun bubbly typography
+Subtle gradients and visual details.
+Professional cards and interactive elements.
+Smooth transitions and hover effects.
+The website should feel personal polished, and memorable yet easy to go through 
+Make sure the website works perfectly on Desktop computers Laptops Tablets and Mobile phones and all layouts, navigation elements, text, images, and interactive components must adapt properly to different screen sizes.
+Include at a working navigation menu smooth scrolling functional buttons and links a working contact form with validation hover animations and subtle transitions a functional dark/light mode toggle a beautiful entrance animations a creative custom cursor or other subtle micro-interactions visually interesting hero section an animated skills presentation and small interactive element that makes the website memorable built the actual working website, not just a design mockup use clean, organized, maintainable code ensure all buttons, links, navigation, and interactions work make the website accessible and SEO-friendly optimize performance and loading speed do not leave broken links or unfinished sections do not use fake functionality make all personal content easy to edit
+I want the final result to look like a premium personal portfolio created by a professional web designer it should communicate professionalism creativity, confidence, and curiosity take creative initiative with the design do not stop at the first basic versionfirst plan the website structure and visual identity then build it test every section and interaction and continuously improve the result until it feels complete and polished
+finally , make sure the website can be published and shared through a public URL 

@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Manal Mutairi — Portfolio"
+description = "A distinctive, responsive personal portfolio for Manal Mutairi, featuring her education, interests, skills, and professional contact details."
+version = "1.0.0"
+id = "artifacts/manal-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18217
+
+[services.development]
+run = "pnpm --filter @workspace/manal-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/manal-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/manal-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18217"
+BASE_PATH = "/"
